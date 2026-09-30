@@ -6,7 +6,9 @@ Mac에서 한국어 자막을 만들고 편집하는 앱입니다. 독립 앱으
 
 ## 다운로드와 설치
 
-이 저장소의 **Releases → v1.0.0 → Assets**에서 **`OKjamak-1.0.0-macOS.dmg`**를 내려받으세요.
+**[옥자막 v 1.0.0 다운로드](https://github.com/okdaejang-art/OKjamak/releases/tag/v1.0.0)**
+
+위 페이지의 Assets에서 `OKjamak-1.0.0-macOS.dmg` 파일을 내려받으세요.
 
 1. DMG를 열고 `OKjamak.app`을 **응용 프로그램** 폴더로 드래그합니다.
 2. 복사가 끝나면 DMG를 추출하고, 응용 프로그램 폴더의 옥자막을 한 번 실행합니다.
@@ -62,6 +64,6 @@ DMG에 들어 있는 **옥자막 제거.app**을 실행하세요. 작업을 저�
 
 ## 이 저장소에 관하여
 
-이 저장소는 **옥자막 앱 다운로드와 사용 안내**를 제공합니다. 앱의 소스코드는 공개하지 않습니다. GitHub가 자동 생성하는 **Source code (zip / tar.gz)**에는 이 공개 저장소의 안내 문서만 들어 있습니다. 앱 설치는 반드시 **DMG 파일**을 사용하세요.
+이 저장소는 **옥자막 앱 다운로드와 사용 안내**를 제공합니다. 앱의 소스코드는 공개하지 않습니다. GitHub가 자동 생성하는 `Source code (zip / tar.gz)`에는 이 공개 저장소의 안내 문서만 들어 있습니다. 앱 설치는 반드시 **DMG 파일**을 사용하세요.
 
 포함된 오픈 소스 구성요소의 라이선스는 [THIRD_PARTY_NOTICES.txt](THIRD_PARTY_NOTICES.txt)와 앱 내부 `Contents/Resources`에 있습니다. 이 고지는 해당 구성요소에 적용되며 옥자막 소스코드 공개를 의미하지 않습니다.
