@@ -1,0 +1,12 @@
+.DS_Store
+*.app/
+*.dmg
+*.zip
+*.bin
+*.gguf
+*.safetensors
+.env
+.env.*
+*.p12
+*.p8
+*.key
